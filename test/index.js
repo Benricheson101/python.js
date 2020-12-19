@@ -1,7 +1,7 @@
                                                                                                 const {
   True,False,def,print,map,_,lambda
                                                                                                 }
-= require('./lib')
+= require('../lib')
 
                                                                                                 const
 a = 1
