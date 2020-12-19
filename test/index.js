@@ -1,4 +1,4 @@
- const {True, False, def, print, map, lambda, _} = require('../lib')
+const {True, False, def, print, map, lambda, _} = require('../lib')
                                                                                                 const
 a = 1
 
