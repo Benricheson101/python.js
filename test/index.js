@@ -16,7 +16,7 @@ print('abc' in _`abcdefg`) // True
 
 def('some_fn',`
   return 1 + 1
-`);
+`)
 
 def('fn_with_params', 'a', 'b', `
   return a + b
