@@ -10,9 +10,11 @@ else                                                                            
 list = [1, 2, 3, 4, 5, 6]
 
 print(map(lambda('a', 'a + 1'), list)) // [2, 3, 4, 5, 6, 7]
+print('-'.join(list)) // 1-2-3-4-5-6
 print(True) // True
 print(False) // False
 print('abc' in _`abcdefg`) // True
+print(_`asdf`[':2']) // as
 
 def('some_fn',`
   return 1 + 1
