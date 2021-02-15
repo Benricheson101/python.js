@@ -26,3 +26,5 @@ def('fn_with_params', 'a', 'b', `
 
 print(some_fn()) // 2
 print(fn_with_params(10, 20)) // 30
+
+print(None)
